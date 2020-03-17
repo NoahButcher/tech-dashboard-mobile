@@ -61,6 +61,10 @@ class Links extends Component {
                         onClick={() => this.Extend("Communication")}>
                         Communication
                     </div>
+                    <div className="Links-category"
+                        onClick={() => this.Extend("eLearning")}>
+                        eLearning
+                    </div>
                 </div>
         })
         this.setState({return:""})

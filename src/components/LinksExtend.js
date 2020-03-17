@@ -1,5 +1,4 @@
 import React from 'react';
-import Links from "./Links"
 
 function LinksExtend(props){
     const category = props.extendCategory
@@ -257,6 +256,30 @@ function LinksExtend(props){
                     </div >
                 )
             break;  
+            case "eLearning":
+                output = (
+                    <div>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://drive.google.com/drive/folders/1S3lmAinQEMoZ34-gO9FrATou_PuwQ6VA?usp=sharing">
+                            Technology Google Drive
+                        </a>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://docs.google.com/document/d/1LViOk0VXy66UTSuOBWG6SzPfrLDyh5j_VvUEX_3ex_8/copy">
+                            eLearning Work Log
+                        </a>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://drive.google.com/drive/folders/1yJrukDwh7ks0jtYrUwhtSClVsySrL9yi?usp=sharing">
+                            Coronavirus / eLearning Folder
+                        </a>
+                    </div >
+                )
+            break;
         default:
             break;
     }
