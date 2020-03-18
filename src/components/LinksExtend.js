@@ -287,7 +287,7 @@ function LinksExtend(props){
                             target="_blank"
                             rel="noopener noreferrer"
                             href="https://drive.google.com/drive/folders/1moiMpQuUArOmroZ6xN3-vKLFP3sDXH5n?usp=sharing">
-                            How-To (Public) Folder
+                            How-To (PUBLIC) Folder
                         </a>
                     </div >
                 )
