@@ -277,6 +277,18 @@ function LinksExtend(props){
                             href="https://drive.google.com/drive/folders/1yJrukDwh7ks0jtYrUwhtSClVsySrL9yi?usp=sharing">
                             Coronavirus / eLearning Folder
                         </a>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://drive.google.com/drive/folders/1ExI5nmBSxo9bAx5vwjGSQvfcmjjN-mB-?usp=sharing">
+                            How-To (TECH) Folder
+                        </a>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://drive.google.com/drive/folders/1moiMpQuUArOmroZ6xN3-vKLFP3sDXH5n?usp=sharing">
+                            How-To (Public) Folder
+                        </a>
                     </div >
                 )
             break;
