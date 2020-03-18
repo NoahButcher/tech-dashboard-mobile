@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b5cb4c71c96820249695ed6a0af47fb",
+    "revision": "fdccfac5b525daf29ae2f15a43a6418a",
     "url": "/tech-dashboard-mobile/index.html"
   },
   {
-    "revision": "9c705fdd3e9d3100c0df",
+    "revision": "02ba70a446ecfd9e009a",
     "url": "/tech-dashboard-mobile/static/css/main.77a14024.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tech-dashboard-mobile/static/js/2.4f7ef907.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c705fdd3e9d3100c0df",
-    "url": "/tech-dashboard-mobile/static/js/main.2eb87084.chunk.js"
+    "revision": "02ba70a446ecfd9e009a",
+    "url": "/tech-dashboard-mobile/static/js/main.3d1b55cb.chunk.js"
   },
   {
     "revision": "626f4a0faf33fddb88e3",
