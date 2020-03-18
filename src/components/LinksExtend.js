@@ -7,7 +7,6 @@ function LinksExtend(props){
         case "Tech Tickets":
             output = (
                 <div className="Links-holder">
-                    <br/>
                     <a className="Links-choice"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -55,7 +54,6 @@ function LinksExtend(props){
             case "Logins":
                 output = (
                     <div>
-                        <br/>
                         <a className="Links-choice"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -117,7 +115,6 @@ function LinksExtend(props){
             case "District":
                 output = (
                     <div>
-                        <br/>
                         <a className="Links-choice"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -186,7 +183,6 @@ function LinksExtend(props){
             case "Technology":
                 output = (
                     <div>
-                        <br/>
                         <a className="Links-choice"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -206,7 +202,6 @@ function LinksExtend(props){
             case "Software":
                 output = (
                     <div>
-                        <br/>
                         <a className="Links-choice"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -233,7 +228,6 @@ function LinksExtend(props){
             case "Guides":
                 output = (
                     <div>
-                        <br/>
                         <a className="Links-choice"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -274,7 +268,6 @@ function LinksExtend(props){
             case "Communication":
                 output = (
                     <div>
-                        <br/>
                         <a className="Links-choice"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -294,7 +287,6 @@ function LinksExtend(props){
             case "eLearning":
                 output = (
                     <div>
-                        <br/>
                         <a className="Links-choice"
                             target="_blank"
                             rel="noopener noreferrer"

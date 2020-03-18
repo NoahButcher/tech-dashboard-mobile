@@ -190,6 +190,7 @@ a.Links-choice{
   margin-bottom:5px;
   border-radius:5px;  
   width: 90%;
+  display: inline-block;
 }
 .Links-choice:hover{
   transition: all .2s ease-in;
