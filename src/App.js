@@ -52,7 +52,7 @@ class App extends Component {
         
         <div className="App-header">
           
-          <h1 className="App-title">Technology Dashboard
+          <h1 className="App-title">Technology Dashboard 2
             <br />
             <div>
               <button 
