@@ -10,7 +10,7 @@ function LinksExtend(props){
                     <a className="Links-choice"
                         target="_blank"
                         rel="noopener noreferrer"
-                        href="https://script.google.com/a/macros/rhschools.org/s/AKfycby7xxuXTEws_tfzdZ2Q61p67QUFy-ZNBN6uKQKKzgslWUiaFwfb-nqLOhjVO65mZdRz3w/exec">
+                        href="https://script.google.com/a/macros/rhschools.org/s/AKfycbw2b3r3lQdLaH8GORI5I9esbqvt_OOGaguUrxLzBRKP35LJt5qojclbmXoJQIA2_ll9/exec#Main/">
                         Pro App
                     </a>
                     <br/>
