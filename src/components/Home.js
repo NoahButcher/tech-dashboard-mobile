@@ -8,26 +8,18 @@ function Home(){
                 Home
             </div>
             <div className="Section">
-                Announcements:
+                Reminders:
+                <div className="Links-category">
+                    All Hardware Issues / Needs:   
+                    <br /><br /> 
+                    Go to South Pointe High School<br /> 
+                    @ the Student Dropoff entrance on Neely Rd<br /> 
+                    There should be signs to direct you.<br /> 
+                    Hours are 8:30-4:30 M-F<br /> 
+                    Contact bridgetek at btelearning@rhmail.org                    
+                </div>
             </div>
-            <div className="Section">
-                Out Today:
-            </div>
-            <div className="Section">
-                Slack Feed:
-            </div>
-            <div className="Section">
-                Latest Technology Tweet:
-            {/* <div className="twitter-viewport">
-                    <a
-                        className="twitter-timeline"
-                        href="https://twitter.com/RHSD_Technology"
-                        data-tweet-limit="1"
-                        data-width="399" >
-                        Embedded Tweet
-                    </a>
-                </div> */}
-            </div>
+            
         </div>
     )
 }

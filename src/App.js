@@ -60,7 +60,8 @@ class App extends Component {
               style={{backgroundColor:this.state.homeBgColor}}
               onClick={this.HomeSelect}
               onTouchStart={this.HomeSelect}>
-                Home</button>
+                Home
+              </button>
               <button 
               className="links-button"
               style={{backgroundColor:this.state.linksBgColor}}
@@ -75,6 +76,17 @@ class App extends Component {
         <div className="App-body">          
           
           {this.state.output}
+
+          <div className="App-version">
+              v1.1.5 | 
+              <a 
+              target="_blank"
+              rel="noopener noreferrer"
+              className="App-reg-link"
+              href="https://github.com/NoahButcher/tech-dashboard-mobile/blob/master/README.md">
+                 View README
+              </a>
+            </div>
           
         </div>
         

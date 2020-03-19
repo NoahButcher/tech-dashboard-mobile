@@ -39,6 +39,16 @@
   letter-spacing: 2px;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 }
+.App-version{
+  font-size: 0.7em;
+}
+.App-reg-link{
+  color:#ddd;
+}
+.App-reg-link:hover{
+  color:#fff;
+  background-color:#1b1b1b5b;
+}
 
 .App-intro {
   font-size: large;
