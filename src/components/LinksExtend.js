@@ -324,6 +324,32 @@ function LinksExtend(props){
                     </div >
                 )
             break;
+            case "Website Statuses":
+                output = (
+                    <div>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://status.instructure.com/">
+                            Canvas Status
+                        </a>
+                        <br/>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://status.classlink.com/">
+                            Launchpad Status
+                        </a>
+                        <br/>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://status.zoom.us/">
+                            Zoom Status
+                        </a>
+                    </div >
+                )
+            break;
         default:
             break;
     }

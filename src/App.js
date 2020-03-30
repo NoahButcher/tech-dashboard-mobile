@@ -78,13 +78,20 @@ class App extends Component {
           {this.state.output}
 
           <div className="App-version">
-              v1.1.5 | 
+              v1.1.6 | 
               <a 
               target="_blank"
               rel="noopener noreferrer"
               className="App-reg-link"
               href="https://github.com/NoahButcher/tech-dashboard-mobile/blob/master/README.md">
-                 View README
+                 View ReadMe
+              </a> | 
+              <a 
+              target="_blank"
+              rel="noopener noreferrer"
+              className="App-reg-link"
+              href="https://github.com/NoahButcher/tech-dashboard-mobile/blob/master/CHANGELOG.md">
+                 View Changelog
               </a>
             </div>
           
