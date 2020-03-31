@@ -1,4 +1,12 @@
-## v1.1.6
+## v1.1.7 | 3/31/20
+
+### New Features
+
+#### Added Links: Help Desk
+Added links to the Help Desk sheet and form to the eLearning category.
+
+
+## v1.1.6 | 3/30/20
 
 ### New Features
 

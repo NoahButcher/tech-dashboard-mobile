@@ -290,6 +290,18 @@ function LinksExtend(props){
                         <a className="Links-choice"
                             target="_blank"
                             rel="noopener noreferrer"
+                            href="https://docs.google.com/spreadsheets/d/1esp3087d75gDI_WMMuM6x9qZGPLdMmiJ6zOht8YDGHY/edit#gid=914811575">
+                            Help Desk Sheet
+                        </a>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://docs.google.com/forms/d/e/1FAIpQLSc_yOFrWrIsQ5j9ou5vtUgutOesUp4UAfHCQrw5sEVyDrQPBw/viewform">
+                            Help Desk Form
+                        </a>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             href="https://drive.google.com/drive/folders/1S3lmAinQEMoZ34-gO9FrATou_PuwQ6VA?usp=sharing">
                             Technology Google Drive
                         </a>
