@@ -1,3 +1,11 @@
+## v1.1.8 | 4/13/20
+
+### Styling
+
+#### Limited width
+Width of the dashboard's body has been limited for improved readability on desktop when displayed in fullscreen.
+
+
 ## v1.1.7 | 3/31/20
 
 ### New Features

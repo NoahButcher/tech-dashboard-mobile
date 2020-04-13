@@ -78,7 +78,7 @@ class App extends Component {
           {this.state.output}
 
           <div className="App-version">
-              v1.1.7 | 
+              v1.1.8 | 
               <a 
               target="_blank"
               rel="noopener noreferrer"

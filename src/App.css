@@ -56,15 +56,17 @@
 
 .App-body {
   font-size: 1em;  
-  display: block;	
+  display: inline-block;	
   width:94%;
   max-height:inherit;
+  max-width:500px;
   margin-left:3%; 
   margin-right:3%;
   /* padding-bottom:10px; */
   position: static;
 	align-content: center;
-	justify-content: center;
+  justify-content: center;
+  text-align: center;
   align-items: center;
   overflow-x: hidden;
   overflow-y: hidden;
