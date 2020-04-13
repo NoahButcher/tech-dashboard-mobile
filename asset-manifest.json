@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tech-dashboard-mobile/static/css/main.2a1db44d.chunk.css",
-    "main.js": "/tech-dashboard-mobile/static/js/main.b364276f.chunk.js",
-    "main.js.map": "/tech-dashboard-mobile/static/js/main.b364276f.chunk.js.map",
+    "main.css": "/tech-dashboard-mobile/static/css/main.93df45f6.chunk.css",
+    "main.js": "/tech-dashboard-mobile/static/js/main.bd6da1b4.chunk.js",
+    "main.js.map": "/tech-dashboard-mobile/static/js/main.bd6da1b4.chunk.js.map",
     "runtime-main.js": "/tech-dashboard-mobile/static/js/runtime-main.c368c7ba.js",
     "runtime-main.js.map": "/tech-dashboard-mobile/static/js/runtime-main.c368c7ba.js.map",
     "static/js/2.6b346386.chunk.js": "/tech-dashboard-mobile/static/js/2.6b346386.chunk.js",
     "static/js/2.6b346386.chunk.js.map": "/tech-dashboard-mobile/static/js/2.6b346386.chunk.js.map",
     "index.html": "/tech-dashboard-mobile/index.html",
-    "precache-manifest.0ed887a5fff6f880ebf5f06174a18bee.js": "/tech-dashboard-mobile/precache-manifest.0ed887a5fff6f880ebf5f06174a18bee.js",
+    "precache-manifest.0b0af0282e2674ca9544def1f038c1d4.js": "/tech-dashboard-mobile/precache-manifest.0b0af0282e2674ca9544def1f038c1d4.js",
     "service-worker.js": "/tech-dashboard-mobile/service-worker.js",
-    "static/css/main.2a1db44d.chunk.css.map": "/tech-dashboard-mobile/static/css/main.2a1db44d.chunk.css.map",
+    "static/css/main.93df45f6.chunk.css.map": "/tech-dashboard-mobile/static/css/main.93df45f6.chunk.css.map",
     "static/js/2.6b346386.chunk.js.LICENSE.txt": "/tech-dashboard-mobile/static/js/2.6b346386.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c368c7ba.js",
     "static/js/2.6b346386.chunk.js",
-    "static/css/main.2a1db44d.chunk.css",
-    "static/js/main.b364276f.chunk.js"
+    "static/css/main.93df45f6.chunk.css",
+    "static/js/main.bd6da1b4.chunk.js"
   ]
 }
