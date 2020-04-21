@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import LinksExtend from "./LinksExtend"
 
 
-
+// Displays link categories for selection.
 class Links extends Component {
     constructor(){
         super()
@@ -25,8 +25,7 @@ class Links extends Component {
                         Return to Categories
                     </div>
                 </div>
-            })
-        console.log("Extend worked! - "+category)        
+            })      
     }
     resetLinks (){
         this.setState({title: "Categories"})

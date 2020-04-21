@@ -1,3 +1,11 @@
+## v1.1.9 | 4/21/20
+
+### New Features
+
+#### Added Link: ClassDojo Status
+Added a link to ClassDojo's status page to the Website Statuses category.
+
+
 ## v1.1.8 | 4/13/20
 
 ### Styling

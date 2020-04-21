@@ -1,4 +1,4 @@
-## Technology Dashboard v2 Mobile
+## Technology Dashboard Mobile
 
 This is an emergency release of the new Technology Dashboard Chrome extension for Rock Hill Schools technology staff during the Coronavirus eLearning period. It is hosted through GitHub Pages to allow it to be accessible on any device without the need to install anything by going to [bit.ly/tech-dashboard](bit.ly/tech-dashboard).
 

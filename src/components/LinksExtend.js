@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Generates and displays links based on selected category.
 function LinksExtend(props){
     const category = props.extendCategory
     let output = ""
@@ -358,6 +359,13 @@ function LinksExtend(props){
                             rel="noopener noreferrer"
                             href="https://status.zoom.us/">
                             Zoom Status
+                        </a>
+                        <br/>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://status.classdojo.com/">
+                            ClassDojo
                         </a>
                     </div >
                 )
