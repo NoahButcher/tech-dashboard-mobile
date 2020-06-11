@@ -77,8 +77,17 @@ class App extends Component {
           
           {this.state.output}
 
+          <div className="App-notification">               
+              <a 
+              target="_blank"
+              rel="noopener noreferrer"
+              className="App-reg-link"
+              href="https://chrome.google.com/webstore/detail/gbblpieaphdajmhondclcjmekgkibeaa">
+                 Install this as a Chrome Extension here.
+              </a>
+            </div>
           <div className="App-version">
-              v1.1.9 | 
+              v1.1.10 | 
               <a 
               target="_blank"
               rel="noopener noreferrer"

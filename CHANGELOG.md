@@ -1,3 +1,11 @@
+## v1.1.10 | 6/11/20
+
+### New Features
+
+#### Added Extension Link
+Added a link to the Chrome Extension version of this dashboard above the version number. To access the extension on the Chrome Webstore and install it, you must have an active technology staff RHSchools.org Google account.
+
+
 ## v1.1.9 | 4/21/20
 
 ### New Features
