@@ -87,7 +87,7 @@ class App extends Component {
               </a>
             </div>
           <div className="App-version">
-              v1.1.10 | 
+              v1.1.11 | 
               <a 
               target="_blank"
               rel="noopener noreferrer"

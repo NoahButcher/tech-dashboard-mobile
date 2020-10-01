@@ -1,3 +1,11 @@
+## v1.1.11 | 10/1/20
+
+### New Features
+
+#### Added Links: MyPromethean
+Added a link to the Promethean Panel Management and User Management portions of MyPromethean to the Technology category.
+
+
 ## v1.1.10 | 6/11/20
 
 ### New Features

@@ -196,7 +196,21 @@ function LinksExtend(props){
                             rel="noopener noreferrer"
                             href="https://drive.google.com/drive/folders/1U-Kh4CcMqaL2LxADAf_gsXF17TRDqocm">
                             School Maps
-                        </a>                          
+                        </a>     
+                        <br/>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://panel-management.mypromethean.com">
+                            Promethean Panel Management
+                        </a>  
+                        <br/>
+                        <a className="Links-choice"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://user-management.mypromethean.com">
+                            Promethean User Management
+                        </a>                       
                     </div >
                 )
             break;  
